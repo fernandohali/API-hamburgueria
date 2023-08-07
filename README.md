@@ -1,3 +1,3 @@
 # API-Hamburgueria 😋
- Criando um API usando Node, o projeto é uma hamburgueria.
+ Criando um API usando Node.js, o projeto é uma hamburgueria.
  # Introdução:
